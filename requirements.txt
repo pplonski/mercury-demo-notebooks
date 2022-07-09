@@ -4,3 +4,7 @@ numpy
 matplotlib
 bokeh
 bloxs
+plotly
+yfinance
+mplfinance
+
