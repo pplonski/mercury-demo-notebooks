@@ -7,4 +7,6 @@ bloxs
 plotly
 yfinance
 mplfinance
+requests
+python-dotenv
 
