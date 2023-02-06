@@ -1,11 +1,27 @@
-# Mercury demo notebooks 🚀
 
-This is a website with demo notebooks. It was created from Python notebooks with <a href="https://github.com/mljar/mercury" target="_blank">Mercury</a> framework. 
+# Welcome in Mercury 👋
 
-The Mercury converts notebook into a web application. It can add interactive widgets to the notebook. The end-user can tweak widgets values and execute notebook with new parameters. The resulting notebook can be downloaded as PDF or HTML file. What is more, you can easily add authentication to your notebooks 🔑. I've created a demo user for you, if you would like to see private notebooks in this website. Please [login](/login) with username (`demo`) and password (`super-secret`).
+Mercury framework allows you easily turn Jupyter Notebooks into shareble web applications.
 
-The source code for notebooks is available on the GitHub on <a href="https://github.com/pplonski/mercury-demo-notebooks" target="_blank">pplonski/mercury-demo-notebooks</a>.
+You can create beautiful and interactive web applications, reports, dashboards and presentations.
 
-The Mercury is open-source. We provide commercial license for users that are looking for more features, white labeling, and dedicated support. You can find more information about Mercury on our [website](https://mljar.com/mercury). If you have any questions please contact us by email `contact@mljar.com`.
+Mercury features:
+- add widgets with simple Python API, 
+- simple cell execution model - widgets trigger cell execution below the widget definition,
+- hide or show notebook code,
+- share multiple notebooks,
+- executed notebook can be exported to HTML or PDF,
+- embed notebook apps on any website,
+- easily deploy (free & public Mercury cloud comming soon!)
+- easily add authentication to notebooks (comming soon!)
+- schedule automatic execution (comming soon!)
 
-## Notebooks ✨
+Please check our documentation at <a href="https://runmercury.com" target="_blank">RunMercury.com</a> for more information 📚
+
+This text can be edited by changing `welcome.md` file. Demo notebooks can be edited in Jupyter. 
+
+All files created for demo are in the current directory.
+
+## Demo applications
+
+    
